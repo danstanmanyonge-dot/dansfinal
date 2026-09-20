@@ -94,7 +94,7 @@ a:hover{
 
 .hero{
   margin-bottom: 0%;
-  height: 330px;
+  height: 370px;
   background: transparent;
   padding-top: 20px;
 }
@@ -226,7 +226,7 @@ a:hover{
   display: grid;
   grid-template-columns: 1fr 1fr;
   place-items: center;
-  gap: 15px 5px;
+  gap: 15px;
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -238,7 +238,7 @@ a:hover{
 .card{
   width: 160px;
   padding: 20px;
-  height: 48vh;
+  height: 50vh;
   border-radius: 20px;
 }
 
